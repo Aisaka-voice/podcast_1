@@ -1,7 +1,7 @@
 title: Test podcast
 description: 描述描述
 baseurl: ""
-url: "http://podcast.aisaka.cc/"
+url: "http://podcast.aisaka.cc"
 
 # Markdown settings
 markdown: kramdown
